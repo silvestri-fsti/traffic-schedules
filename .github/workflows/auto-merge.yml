@@ -1,0 +1,26 @@
+name: Auto Merge Cursor Agent
+permissions:
+  contents: write
+
+on:
+  push:
+    branches:
+      - 'cursor/**'  # Triggers whenever Cursor pushes a branch starting with "cursor/"
+
+jobs:
+  merge-branch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Merge to Main
+        run: |
+          git config user.name "Auto-Merge Bot"
+          git config user.email "bot@example.com"
+          git checkout main
+          git merge ${{ github.ref }}
+          git push origin main
