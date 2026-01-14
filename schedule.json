@@ -6,61 +6,61 @@
         "title": "Alexanderstraße",
         "time": "07:00-09:00",
         "team": "team1",
-        "details": "Cat: S, District: Heilbronn - School Zone Priority"
+        "details": "Heilbronn | Kat: S (Schule)"
       },
       {
         "title": "Arndstraße",
         "time": "07:00-09:00",
         "team": "team2",
-        "details": "Cat: S, District: Heilbronn - School Zone Priority"
+        "details": "Heilbronn | Kat: S (Schule)"
       },
       {
         "title": "Bismarkstraße",
         "time": "09:30-11:30",
         "team": "team1",
-        "details": "Cat: S, District: Heilbronn - School Zone Priority"
+        "details": "Heilbronn | Kat: S (Schule)"
       },
       {
         "title": "Christophstraße",
         "time": "09:30-11:30",
         "team": "team2",
-        "details": "Cat: S, District: Heilbronn - School Zone Priority"
+        "details": "Heilbronn | Kat: S (Schule)"
       },
       {
         "title": "Dammstraße",
         "time": "12:00-14:00",
         "team": "team1",
-        "details": "Cat: S, District: Heilbronn - School Zone Priority"
+        "details": "Heilbronn | Kat: S (Schule)"
       },
       {
         "title": "Friedensplatz",
         "time": "12:00-14:00",
         "team": "team2",
-        "details": "Cat: S, District: Heilbronn - School Zone Priority"
+        "details": "Heilbronn | Kat: S (Schule)"
       },
       {
         "title": "Lammgasse",
         "time": "17:00-19:00",
         "team": "team1",
-        "details": "Cat: B, District: Heilbronn - Evening Patrol"
+        "details": "Heilbronn | Kat: B"
       },
       {
         "title": "Auerbachstraße",
         "time": "17:00-19:00",
         "team": "team2",
-        "details": "Cat: B, District: Heilbronn - Evening Patrol"
+        "details": "Heilbronn | Kat: B"
       },
       {
         "title": "B 39 Sattel b. Parkplatz",
         "time": "19:30-21:30",
         "team": "team1",
-        "details": "Cat: U, District: Heilbronn - Night Priority"
+        "details": "Heilbronn | Kat: U"
       },
       {
         "title": "Goethestraße",
         "time": "19:30-21:30",
         "team": "team2",
-        "details": "Cat: U, District: Heilbronn - Night Priority"
+        "details": "Heilbronn | Kat: U"
       }
     ]
   },
@@ -71,61 +71,61 @@
         "title": "Gellertstraße",
         "time": "07:00-09:00",
         "team": "team1",
-        "details": "Cat: S, District: Heilbronn - School Zone Priority"
+        "details": "Heilbronn | Kat: S (Schule)"
       },
       {
         "title": "Happenbacher Straße",
         "time": "07:00-09:00",
         "team": "team2",
-        "details": "Cat: S, District: Heilbronn - School Zone Priority"
+        "details": "Heilbronn | Kat: S (Schule)"
       },
       {
         "title": "Happelstraße",
         "time": "09:30-11:30",
         "team": "team1",
-        "details": "Cat: S, District: Heilbronn - School Zone Priority"
+        "details": "Heilbronn | Kat: S (Schule)"
       },
       {
         "title": "Innsbrucker Straße",
         "time": "09:30-11:30",
         "team": "team2",
-        "details": "Cat: S, District: Heilbronn - School Zone Priority"
+        "details": "Heilbronn | Kat: S (Schule)"
       },
       {
         "title": "Im Wannental",
         "time": "12:00-14:00",
         "team": "team1",
-        "details": "Cat: S, District: Heilbronn - School Zone Priority"
+        "details": "Heilbronn | Kat: S (Schule)"
       },
       {
         "title": "Kauffmannstraße",
         "time": "12:00-14:00",
         "team": "team2",
-        "details": "Cat: S, District: Heilbronn - School Zone Priority"
+        "details": "Heilbronn | Kat: S (Schule)"
       },
       {
         "title": "Armsündersteige",
         "time": "17:00-19:00",
         "team": "team1",
-        "details": "Cat: B, District: Heilbronn - Evening Patrol"
+        "details": "Heilbronn | Kat: B"
       },
       {
         "title": "Bechtstraße",
         "time": "17:00-19:00",
         "team": "team2",
-        "details": "Cat: B, District: Heilbronn - Evening Patrol"
+        "details": "Heilbronn | Kat: B"
       },
       {
         "title": "Gottlieb-Daimler-Straße",
         "time": "19:30-21:30",
         "team": "team1",
-        "details": "Cat: U, District: Heilbronn - Night Priority"
+        "details": "Heilbronn | Kat: U"
       },
       {
         "title": "Karlstraße",
         "time": "19:30-21:30",
         "team": "team2",
-        "details": "Cat: U, District: Heilbronn - Night Priority"
+        "details": "Heilbronn | Kat: U"
       }
     ]
   },
@@ -136,61 +136,61 @@
         "title": "Lenaustraße",
         "time": "07:00-09:00",
         "team": "team1",
-        "details": "Cat: S, District: Heilbronn - School Zone Priority"
+        "details": "Heilbronn | Kat: S (Schule)"
       },
       {
         "title": "Rosenbergstraße",
         "time": "07:00-09:00",
         "team": "team2",
-        "details": "Cat: S, District: Heilbronn - School Zone Priority"
+        "details": "Heilbronn | Kat: S (Schule)"
       },
       {
         "title": "Sichererstraße",
         "time": "09:30-11:30",
         "team": "team1",
-        "details": "Cat: S, District: Heilbronn - School Zone Priority"
+        "details": "Heilbronn | Kat: S (Schule)"
       },
       {
         "title": "Siebennußbaumstraße",
         "time": "09:30-11:30",
         "team": "team2",
-        "details": "Cat: S, District: Heilbronn - School Zone Priority"
+        "details": "Heilbronn | Kat: S (Schule)"
       },
       {
         "title": "John-F.-Kennedy-Straße",
         "time": "12:00-14:00",
         "team": "team1",
-        "details": "Cat: S, District: Heilbronn - School Zone Priority"
+        "details": "Heilbronn | Kat: S (Schule)"
       },
       {
         "title": "Am Sülmertor",
         "time": "12:00-14:00",
         "team": "team2",
-        "details": "Cat: S, District: Heilbronn - School Zone Priority"
+        "details": "Heilbronn | Kat: S (Schule)"
       },
       {
         "title": "Am Trappensee",
         "time": "17:00-19:00",
         "team": "team1",
-        "details": "Cat: B, District: Heilbronn - Evening Patrol"
+        "details": "Heilbronn | Kat: B"
       },
       {
         "title": "Achtungstraße",
         "time": "17:00-19:00",
         "team": "team2",
-        "details": "Cat: B, District: Heilbronn - Evening Patrol"
+        "details": "Heilbronn | Kat: B"
       },
       {
         "title": "Paul-Goebel-Straße",
         "time": "19:30-21:30",
         "team": "team1",
-        "details": "Cat: U, District: Heilbronn - Night Priority"
+        "details": "Heilbronn | Kat: U"
       },
       {
         "title": "Schaeuffelenstraße",
         "time": "19:30-21:30",
         "team": "team2",
-        "details": "Cat: U, District: Heilbronn - Night Priority"
+        "details": "Heilbronn | Kat: U"
       }
     ]
   },
@@ -198,64 +198,64 @@
     "full": "2026-01-16",
     "events": [
       {
-        "title": "Beethovenstraße",
+        "title": "Adolf-Alter-Straße",
         "time": "07:00-09:00",
         "team": "team1",
-        "details": "Cat: S, District: Heilbronn - School Zone Priority"
+        "details": "Böckingen | Kat: S (Schule)"
       },
       {
-        "title": "Bergstraße",
+        "title": "Bruchsaler Straße",
         "time": "07:00-09:00",
         "team": "team2",
-        "details": "Cat: S, District: Heilbronn - School Zone Priority"
+        "details": "Böckingen | Kat: S (Schule)"
       },
       {
-        "title": "Burenstraße",
+        "title": "Grünewald Straße",
         "time": "09:30-11:30",
         "team": "team1",
-        "details": "Cat: S, District: Heilbronn - School Zone Priority"
+        "details": "Böckingen | Kat: S (Schule)"
       },
       {
-        "title": "Erlenbacher Straße",
+        "title": "Blumhardstraße",
         "time": "09:30-11:30",
         "team": "team2",
-        "details": "Cat: S, District: Heilbronn - School Zone Priority"
+        "details": "Böckingen | Kat: S (Schule)"
       },
       {
-        "title": "Friedrich-Dürr-Straße",
+        "title": "Derfflinger Straße",
         "time": "12:00-14:00",
         "team": "team1",
-        "details": "Cat: S, District: Heilbronn - School Zone Priority"
+        "details": "Böckingen | Kat: S (Schule)"
       },
       {
-        "title": "Herbert-Hoover-Straße",
+        "title": "Friedrichstraße",
         "time": "12:00-14:00",
         "team": "team2",
-        "details": "Cat: S, District: Heilbronn - School Zone Priority"
+        "details": "Böckingen | Kat: S (Schule)"
       },
       {
-        "title": "Besigheimer Straße",
+        "title": "Benzstraße",
         "time": "17:00-19:00",
         "team": "team1",
-        "details": "Cat: B, District: Heilbronn - Evening Patrol"
+        "details": "Heilbronn | Kat: B"
       },
       {
         "title": "Binswanger Straße",
         "time": "17:00-19:00",
         "team": "team2",
-        "details": "Cat: B, District: Heilbronn - Evening Patrol"
+        "details": "Heilbronn | Kat: B"
       },
       {
         "title": "Silcherstraße",
         "time": "19:30-21:30",
         "team": "team1",
-        "details": "Cat: U, District: Heilbronn - Night Priority"
+        "details": "Heilbronn | Kat: U"
       },
       {
         "title": "Stuttgarter Straße",
         "time": "19:30-21:30",
         "team": "team2",
-        "details": "Cat: U, District: Heilbronn - Night Priority"
+        "details": "Heilbronn | Kat: U"
       }
     ]
   },
@@ -263,76 +263,76 @@
     "full": "2026-01-17",
     "events": [
       {
-        "title": "Adolf-Alter-Straße",
+        "title": "Helmholtzstraße",
         "time": "07:00-09:00",
         "team": "team1",
-        "details": "Cat: S, District: Böckingen - School Zone Priority"
+        "details": "Böckingen | Kat: S (Schule)"
       },
       {
-        "title": "Bruchsaler Straße",
+        "title": "Im Haselter",
         "time": "07:00-09:00",
         "team": "team2",
-        "details": "Cat: S, District: Böckingen - School Zone Priority"
+        "details": "Böckingen | Kat: S (Schule)"
       },
       {
-        "title": "Grünewald Straße",
+        "title": "Im Kreuzgrund",
         "time": "09:30-11:30",
         "team": "team1",
-        "details": "Cat: S, District: Böckingen - School Zone Priority"
+        "details": "Böckingen | Kat: S (Schule)"
       },
       {
-        "title": "Blumhardstraße",
+        "title": "Längelterstraße",
         "time": "09:30-11:30",
         "team": "team2",
-        "details": "Cat: S, District: Böckingen - School Zone Priority"
+        "details": "Böckingen | Kat: S (Schule)"
       },
       {
-        "title": "Derfflinger Straße",
+        "title": "Landwehrstraße",
         "time": "12:00-14:00",
         "team": "team1",
-        "details": "Cat: S, District: Böckingen - School Zone Priority"
+        "details": "Böckingen | Kat: S (Schule)"
       },
       {
-        "title": "Friedrichstraße",
+        "title": "Pfaffenhofener Straße",
         "time": "12:00-14:00",
         "team": "team2",
-        "details": "Cat: S, District: Böckingen - School Zone Priority"
-      },
-      {
-        "title": "Benzstraße",
-        "time": "17:00-19:00",
-        "team": "team1",
-        "details": "Cat: B, District: Heilbronn - Evening Patrol"
+        "details": "Böckingen | Kat: S (Schule)"
       },
       {
         "title": "Binswanger Straße ausserhalb",
         "time": "17:00-19:00",
+        "team": "team1",
+        "details": "Heilbronn | Kat: B"
+      },
+      {
+        "title": "Eberhard-Gmelin-Straße",
+        "time": "17:00-19:00",
         "team": "team2",
-        "details": "Cat: B, District: Heilbronn - Evening Patrol"
+        "details": "Heilbronn | Kat: B"
       },
       {
         "title": "Weststraße",
         "time": "19:30-21:30",
         "team": "team1",
-        "details": "Cat: U, District: Heilbronn - Night Priority"
+        "details": "Heilbronn | Kat: U"
       },
       {
         "title": "Am Wollhaus",
         "time": "19:30-21:30",
         "team": "team2",
-        "details": "Cat: U, District: Heilbronn - Night Priority"
+        "details": "Heilbronn | Kat: U"
       },
       {
         "title": "Allee",
         "time": "21:30-00:30",
         "team": "team1",
-        "details": "Cat: U, District: Heilbronn - Late Night Priority"
+        "details": "Heilbronn | Kat: U (Nachtschicht)"
       },
       {
         "title": "Austraße",
         "time": "21:30-00:30",
         "team": "team2",
-        "details": "Cat: U, District: Heilbronn - Late Night Priority"
+        "details": "Heilbronn | Kat: U (Nachtschicht)"
       }
     ]
   },
@@ -340,40 +340,40 @@
     "full": "2026-01-18",
     "events": [
       {
-        "title": "Helmholtzstraße",
+        "title": "Schollenhaldenstraße",
         "time": "17:00-19:00",
         "team": "team1",
-        "details": "Cat: S, District: Böckingen - Evening Patrol"
+        "details": "Böckingen | Kat: S"
       },
       {
-        "title": "Im Haselter",
+        "title": "Sonnenbergstraße",
         "time": "17:00-19:00",
         "team": "team2",
-        "details": "Cat: S, District: Böckingen - Evening Patrol"
+        "details": "Böckingen | Kat: S"
       },
       {
-        "title": "Im Kreuzgrund",
+        "title": "Eisenbahnstraße",
         "time": "19:30-21:30",
         "team": "team1",
-        "details": "Cat: S, District: Böckingen - Evening Priority"
+        "details": "Böckingen | Kat: S"
       },
       {
-        "title": "Längelterstraße",
+        "title": "Stettener Straße",
         "time": "19:30-21:30",
         "team": "team2",
-        "details": "Cat: S, District: Böckingen - Evening Priority"
+        "details": "Böckingen | Kat: S"
       },
       {
         "title": "Bahnhofstraße",
         "time": "21:30-00:30",
         "team": "team1",
-        "details": "Cat: U, District: Heilbronn - Late Night Priority"
+        "details": "Heilbronn | Kat: U (Nachtschicht)"
       },
       {
         "title": "Badstraße",
         "time": "21:30-00:30",
         "team": "team2",
-        "details": "Cat: U, District: Heilbronn - Late Night Priority"
+        "details": "Heilbronn | Kat: U (Nachtschicht)"
       }
     ]
   },
@@ -381,64 +381,64 @@
     "full": "2026-01-20",
     "events": [
       {
-        "title": "Landwehrstraße",
+        "title": "Bamberger Straße",
         "time": "07:00-09:00",
         "team": "team1",
-        "details": "Cat: S, District: Böckingen - School Zone Priority"
+        "details": "Frankenbach | Kat: S (Schule)"
       },
       {
-        "title": "Pfaffenhofener Straße",
+        "title": "Burgundenstraße",
         "time": "07:00-09:00",
         "team": "team2",
-        "details": "Cat: S, District: Böckingen - School Zone Priority"
+        "details": "Frankenbach | Kat: S (Schule)"
       },
       {
-        "title": "Schollenhaldenstraße",
+        "title": "Burgstallstraße",
         "time": "09:30-11:30",
         "team": "team1",
-        "details": "Cat: S, District: Böckingen - School Zone Priority"
+        "details": "Frankenbach | Kat: S (Schule)"
       },
       {
-        "title": "Sinsheimer Straße",
+        "title": "Kirchhausener Straße",
         "time": "09:30-11:30",
         "team": "team2",
-        "details": "Cat: S, District: Böckingen - School Zone Priority"
+        "details": "Frankenbach | Kat: S (Schule)"
       },
       {
-        "title": "Sonnenbergstraße",
+        "title": "Riedweg",
         "time": "12:00-14:00",
         "team": "team1",
-        "details": "Cat: S, District: Böckingen - School Zone Priority"
+        "details": "Frankenbach | Kat: S (Schule)"
       },
       {
-        "title": "Eisenbahnstraße",
+        "title": "Saarbrückener Straße",
         "time": "12:00-14:00",
         "team": "team2",
-        "details": "Cat: S, District: Böckingen - School Zone Priority"
-      },
-      {
-        "title": "Eberhard-Gmelin-Straße",
-        "time": "17:00-19:00",
-        "team": "team1",
-        "details": "Cat: B, District: Heilbronn - Evening Patrol"
+        "details": "Frankenbach | Kat: S (Schule)"
       },
       {
         "title": "Cäcilienbrunnenstraße",
         "time": "17:00-19:00",
+        "team": "team1",
+        "details": "Heilbronn | Kat: B"
+      },
+      {
+        "title": "Dittmarstraße",
+        "time": "17:00-19:00",
         "team": "team2",
-        "details": "Cat: B, District: Heilbronn - Evening Patrol"
+        "details": "Heilbronn | Kat: B"
       },
       {
         "title": "Einsteinstraße",
         "time": "19:30-21:30",
         "team": "team1",
-        "details": "Cat: U, District: Heilbronn - Night Priority"
+        "details": "Heilbronn | Kat: U"
       },
       {
         "title": "Frankfurter Straße",
         "time": "19:30-21:30",
         "team": "team2",
-        "details": "Cat: U, District: Heilbronn - Night Priority"
+        "details": "Heilbronn | Kat: U"
       }
     ]
   },
@@ -446,64 +446,64 @@
     "full": "2026-01-21",
     "events": [
       {
-        "title": "Stettener Straße",
+        "title": "Würzburger Straße",
         "time": "07:00-09:00",
         "team": "team1",
-        "details": "Cat: S, District: Böckingen - School Zone Priority"
+        "details": "Frankenbach | Kat: S (Schule)"
       },
       {
-        "title": "Zellerstraße",
+        "title": "Heilbronner Weg",
         "time": "07:00-09:00",
         "team": "team2",
-        "details": "Cat: S, District: Böckingen - School Zone Priority"
+        "details": "Horkheim | Kat: S (Schule)"
       },
       {
-        "title": "Bamberger Straße",
+        "title": "Hohenloher Straße",
         "time": "09:30-11:30",
         "team": "team1",
-        "details": "Cat: S, District: Frankenbach - School Zone Priority"
+        "details": "Horkheim | Kat: S (Schule)"
       },
       {
-        "title": "Burgundenstraße",
+        "title": "Nußäcker Straße",
         "time": "09:30-11:30",
         "team": "team2",
-        "details": "Cat: S, District: Frankenbach - School Zone Priority"
+        "details": "Horkheim | Kat: S (Schule)"
       },
       {
-        "title": "Burgstallstraße",
+        "title": "Schleusenstraße",
         "time": "12:00-14:00",
         "team": "team1",
-        "details": "Cat: S, District: Frankenbach - School Zone Priority"
+        "details": "Horkheim | Kat: S (Schule)"
       },
       {
-        "title": "Kirchhausener Straße",
+        "title": "Talheimer Straße",
         "time": "12:00-14:00",
         "team": "team2",
-        "details": "Cat: S, District: Frankenbach - School Zone Priority"
-      },
-      {
-        "title": "Dittmarstraße",
-        "time": "17:00-19:00",
-        "team": "team1",
-        "details": "Cat: B, District: Heilbronn - Evening Patrol"
+        "details": "Horkheim | Kat: S (Schule)"
       },
       {
         "title": "Dühringstraße",
         "time": "17:00-19:00",
+        "team": "team1",
+        "details": "Heilbronn | Kat: B"
+      },
+      {
+        "title": "Feyerabendstraße",
+        "time": "17:00-19:00",
         "team": "team2",
-        "details": "Cat: B, District: Heilbronn - Evening Patrol"
+        "details": "Heilbronn | Kat: B"
       },
       {
         "title": "Hafenstraße",
         "time": "19:30-21:30",
         "team": "team1",
-        "details": "Cat: U, District: Heilbronn - Night Priority"
+        "details": "Heilbronn | Kat: U"
       },
       {
         "title": "Jägerhausstraße",
         "time": "19:30-21:30",
         "team": "team2",
-        "details": "Cat: U, District: Heilbronn - Night Priority"
+        "details": "Heilbronn | Kat: U"
       }
     ]
   },
@@ -511,64 +511,64 @@
     "full": "2026-01-22",
     "events": [
       {
-        "title": "Riedweg",
+        "title": "Deutschritterstraße",
         "time": "07:00-09:00",
         "team": "team1",
-        "details": "Cat: S, District: Frankenbach - School Zone Priority"
+        "details": "Kirchhausen | Kat: S (Schule)"
       },
       {
-        "title": "Saarbrückener Straße",
+        "title": "Falltor Straße",
         "time": "07:00-09:00",
         "team": "team2",
-        "details": "Cat: S, District: Frankenbach - School Zone Priority"
+        "details": "Kirchhausen | Kat: S (Schule)"
       },
       {
-        "title": "Würzburger Straße",
+        "title": "Gartachgaustraße",
         "time": "09:30-11:30",
         "team": "team1",
-        "details": "Cat: S, District: Frankenbach - School Zone Priority"
+        "details": "Kirchhausen | Kat: S (Schule)"
       },
       {
-        "title": "Heilbronner Weg",
+        "title": "Schloßstraße",
         "time": "09:30-11:30",
         "team": "team2",
-        "details": "Cat: S, District: Horkheim - School Zone Priority"
+        "details": "Kirchhausen | Kat: S (Schule)"
       },
       {
-        "title": "Hohenloher Straße",
+        "title": "Schultheiß-Hammer-Straße",
         "time": "12:00-14:00",
         "team": "team1",
-        "details": "Cat: S, District: Horkheim - School Zone Priority"
+        "details": "Kirchhausen | Kat: S (Schule)"
       },
       {
-        "title": "Nußäcker Straße",
+        "title": "Schlossstraße",
         "time": "12:00-14:00",
         "team": "team2",
-        "details": "Cat: S, District: Horkheim - School Zone Priority"
+        "details": "Kirchhausen | Kat: S (Schule)"
       },
       {
-        "title": "Goppeltstraße",
+        "title": "Friedhofstraße",
         "time": "17:00-19:00",
         "team": "team1",
-        "details": "Cat: B, District: Heilbronn - Evening Patrol"
+        "details": "Heilbronn | Kat: B"
       },
       {
-        "title": "Krugstraße",
+        "title": "Gildenstraße",
         "time": "17:00-19:00",
         "team": "team2",
-        "details": "Cat: B, District: Heilbronn - Evening Patrol"
+        "details": "Heilbronn | Kat: B"
       },
       {
         "title": "Kalistraße",
         "time": "19:30-21:30",
         "team": "team1",
-        "details": "Cat: U, District: Heilbronn - Night Priority"
+        "details": "Heilbronn | Kat: U"
       },
       {
         "title": "Karlsruher Straße",
         "time": "19:30-21:30",
         "team": "team2",
-        "details": "Cat: U, District: Heilbronn - Night Priority"
+        "details": "Heilbronn | Kat: U"
       }
     ]
   },
@@ -576,64 +576,64 @@
     "full": "2026-01-23",
     "events": [
       {
-        "title": "Schleusenstraße",
+        "title": "Albert-Wagner-Straße",
         "time": "07:00-09:00",
         "team": "team1",
-        "details": "Cat: S, District: Horkheim - School Zone Priority"
+        "details": "Klingenberg | Kat: S (Schule)"
       },
       {
-        "title": "Talheimer Straße",
+        "title": "Felsenstraße",
         "time": "07:00-09:00",
         "team": "team2",
-        "details": "Cat: S, District: Horkheim - School Zone Priority"
+        "details": "Klingenberg | Kat: S (Schule)"
       },
       {
-        "title": "Deutschritterstraße",
+        "title": "Leingartener Straße",
         "time": "09:30-11:30",
         "team": "team1",
-        "details": "Cat: S, District: Kirchhausen - School Zone Priority"
+        "details": "Klingenberg | Kat: S (Schule)"
       },
       {
-        "title": "Falltor Straße",
+        "title": "Böckinger Straße",
         "time": "09:30-11:30",
         "team": "team2",
-        "details": "Cat: S, District: Kirchhausen - School Zone Priority"
+        "details": "Neckargartach | Kat: S (Schule)"
       },
       {
-        "title": "Gartachgaustraße",
+        "title": "Böllinger Straße",
         "time": "12:00-14:00",
         "team": "team1",
-        "details": "Cat: S, District: Kirchhausen - School Zone Priority"
+        "details": "Neckargartach | Kat: S (Schule)"
       },
       {
-        "title": "Schloßstraße",
+        "title": "Breslauer Straße",
         "time": "12:00-14:00",
         "team": "team2",
-        "details": "Cat: S, District: Kirchhausen - School Zone Priority"
+        "details": "Neckargartach | Kat: S (Schule)"
       },
       {
-        "title": "Wilhelm-Bloss-Straße",
+        "title": "Gerberstraße",
         "time": "17:00-19:00",
         "team": "team1",
-        "details": "Cat: B, District: Heilbronn - Evening Patrol"
+        "details": "Heilbronn | Kat: B"
       },
       {
-        "title": "Kranenstraße",
+        "title": "Goppeltstraße",
         "time": "17:00-19:00",
         "team": "team2",
-        "details": "Cat: B, District: Heilbronn - Evening Patrol"
+        "details": "Heilbronn | Kat: B"
       },
       {
         "title": "Karl-Wüst-Straße",
         "time": "19:30-21:30",
         "team": "team1",
-        "details": "Cat: U, District: Heilbronn - Night Priority"
+        "details": "Heilbronn | Kat: U"
       },
       {
         "title": "Mannheimer Straße",
         "time": "19:30-21:30",
         "team": "team2",
-        "details": "Cat: U, District: Heilbronn - Night Priority"
+        "details": "Heilbronn | Kat: U"
       }
     ]
   },
@@ -641,76 +641,76 @@
     "full": "2026-01-24",
     "events": [
       {
-        "title": "Schultheiß-Hammer-Straße",
+        "title": "Feurerstraße",
         "time": "07:00-09:00",
         "team": "team1",
-        "details": "Cat: S, District: Kirchhausen - School Zone Priority"
+        "details": "Neckargartach | Kat: S (Schule)"
       },
       {
-        "title": "Schlossstraße",
+        "title": "Frankenbacher Straße",
         "time": "07:00-09:00",
         "team": "team2",
-        "details": "Cat: S, District: Kirchhausen - School Zone Priority"
+        "details": "Neckargartach | Kat: S (Schule)"
       },
       {
-        "title": "Albert-Wagner-Straße",
+        "title": "Franz-Reichle-Straße",
         "time": "09:30-11:30",
         "team": "team1",
-        "details": "Cat: S, District: Klingenberg - School Zone Priority"
+        "details": "Neckargartach | Kat: S (Schule)"
       },
       {
-        "title": "Felsenstraße",
+        "title": "Leinbachstraße",
         "time": "09:30-11:30",
         "team": "team2",
-        "details": "Cat: S, District: Klingenberg - School Zone Priority"
+        "details": "Neckargartach | Kat: S (Schule)"
       },
       {
-        "title": "Leingartener Straße",
+        "title": "Länderlesstraße",
         "time": "12:00-14:00",
         "team": "team1",
-        "details": "Cat: S, District: Klingenberg - School Zone Priority"
+        "details": "Neckargartach | Kat: S (Schule)"
       },
       {
-        "title": "Böckinger Straße",
+        "title": "Liebermannstraße",
         "time": "12:00-14:00",
         "team": "team2",
-        "details": "Cat: S, District: Neckargartach - School Zone Priority"
+        "details": "Neckargartach | Kat: S (Schule)"
       },
       {
-        "title": "Feyerabendstraße",
+        "title": "Guido-Hauck-Straße",
         "time": "17:00-19:00",
         "team": "team1",
-        "details": "Cat: B, District: Heilbronn - Evening Patrol"
+        "details": "Heilbronn | Kat: B"
       },
       {
-        "title": "Friedhofstraße",
+        "title": "Hauffstraße",
         "time": "17:00-19:00",
         "team": "team2",
-        "details": "Cat: B, District: Heilbronn - Evening Patrol"
+        "details": "Heilbronn | Kat: B"
       },
       {
         "title": "Neckarsulmer Straße",
         "time": "19:30-21:30",
         "team": "team1",
-        "details": "Cat: U, District: Heilbronn - Night Priority"
+        "details": "Heilbronn | Kat: U"
       },
       {
         "title": "Olgastraße",
         "time": "19:30-21:30",
         "team": "team2",
-        "details": "Cat: U, District: Heilbronn - Night Priority"
+        "details": "Heilbronn | Kat: U"
       },
       {
         "title": "Sontheimer Landwehr",
         "time": "21:30-00:30",
         "team": "team1",
-        "details": "Cat: U, District: Heilbronn - Late Night Priority"
+        "details": "Heilbronn | Kat: U (Nachtschicht)"
       },
       {
         "title": "Südstraße bei Kirche",
         "time": "21:30-00:30",
         "team": "team2",
-        "details": "Cat: U, District: Heilbronn - Late Night Priority"
+        "details": "Heilbronn | Kat: U (Nachtschicht)"
       }
     ]
   },
@@ -718,40 +718,40 @@
     "full": "2026-01-25",
     "events": [
       {
-        "title": "Böllinger Straße",
+        "title": "Ludwigstraße",
         "time": "17:00-19:00",
         "team": "team1",
-        "details": "Cat: S, District: Neckargartach - Evening Patrol"
+        "details": "Neckargartach | Kat: S"
       },
       {
-        "title": "Breslauer Straße",
+        "title": "Theodor-Körner-Straße",
         "time": "17:00-19:00",
         "team": "team2",
-        "details": "Cat: S, District: Neckargartach - Evening Patrol"
+        "details": "Neckargartach | Kat: S"
       },
       {
-        "title": "Feurerstraße",
+        "title": "Beziersstraße",
         "time": "19:30-21:30",
         "team": "team1",
-        "details": "Cat: S, District: Neckargartach - Evening Priority"
+        "details": "Sontheim | Kat: S"
       },
       {
-        "title": "Frankenbacher Straße",
+        "title": "Bottwarbahnstraße",
         "time": "19:30-21:30",
         "team": "team2",
-        "details": "Cat: S, District: Neckargartach - Evening Priority"
+        "details": "Sontheim | Kat: S"
       },
       {
         "title": "Südstraße östl. Rosenbergbrücke",
         "time": "21:30-00:30",
         "team": "team1",
-        "details": "Cat: U, District: Heilbronn - Late Night Priority"
+        "details": "Heilbronn | Kat: U (Nachtschicht)"
       },
       {
         "title": "Urbanstraße",
         "time": "21:30-00:30",
         "team": "team2",
-        "details": "Cat: U, District: Heilbronn - Late Night Priority"
+        "details": "Heilbronn | Kat: U (Nachtschicht)"
       }
     ]
   }
