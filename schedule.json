@@ -5,25 +5,13 @@
       {
         "title": "Lammgasse",
         "time": "09:00",
-        "details": "Score: 0 - Team 1 Morning Shift",
+        "details": "Traffic monitoring and speed control",
         "team": "team1"
       },
       {
         "title": "Alexanderstraße",
-        "time": "09:00",
-        "details": "Score: 0 - Team 2 Morning Shift",
-        "team": "team2"
-      },
-      {
-        "title": "Auerbachstraße",
         "time": "14:00",
-        "details": "Score: 0 - Team 1 Afternoon Shift",
-        "team": "team1"
-      },
-      {
-        "title": "Armsündersteige",
-        "time": "14:00",
-        "details": "Score: 0 - Team 2 Afternoon Shift",
+        "details": "Traffic monitoring and speed control",
         "team": "team2"
       }
     ]
@@ -32,27 +20,15 @@
     "full": "2026-01-21",
     "events": [
       {
-        "title": "Bechtstraße",
+        "title": "Auerbachstraße",
         "time": "09:00",
-        "details": "Score: 0 - Team 1 Morning Shift",
+        "details": "Traffic monitoring and speed control",
         "team": "team1"
       },
       {
-        "title": "Am Trappensee",
-        "time": "09:00",
-        "details": "Score: 0 - Team 2 Morning Shift",
-        "team": "team2"
-      },
-      {
-        "title": "Achtungstraße",
+        "title": "Armsündersteige",
         "time": "14:00",
-        "details": "Score: 0 - Team 1 Afternoon Shift",
-        "team": "team1"
-      },
-      {
-        "title": "Arndstraße",
-        "time": "14:00",
-        "details": "Score: 0 - Team 2 Afternoon Shift",
+        "details": "Traffic monitoring and speed control",
         "team": "team2"
       }
     ]
@@ -61,25 +37,51 @@
     "full": "2026-01-22",
     "events": [
       {
-        "title": "Besigheimer Straße",
+        "title": "Bechtstraße",
         "time": "09:00",
-        "details": "Score: 0 - Team 1 Morning Shift",
+        "details": "Traffic monitoring and speed control",
         "team": "team1"
       },
       {
-        "title": "Binswanger Straße",
+        "title": "Am Trappensee",
         "time": "14:00",
-        "details": "Score: 0 - Team 2 Afternoon Shift",
+        "details": "Traffic monitoring and speed control",
         "team": "team2"
       }
     ]
   },
   {
     "full": "2026-01-23",
-    "events": []
+    "events": [
+      {
+        "title": "Achtungstraße",
+        "time": "09:00",
+        "details": "Traffic monitoring and speed control",
+        "team": "team1"
+      },
+      {
+        "title": "Arndstraße",
+        "time": "14:00",
+        "details": "Traffic monitoring and speed control",
+        "team": "team2"
+      }
+    ]
   },
   {
     "full": "2026-01-24",
-    "events": []
+    "events": [
+      {
+        "title": "Besigheimer Straße",
+        "time": "09:00",
+        "details": "Traffic monitoring and speed control",
+        "team": "team1"
+      },
+      {
+        "title": "Binswanger Straße",
+        "time": "14:00",
+        "details": "Traffic monitoring and speed control",
+        "team": "team2"
+      }
+    ]
   }
 ]
