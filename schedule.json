@@ -3,28 +3,64 @@
     "full": "2026-01-20",
     "events": [
       {
-        "title": "Lammgasse",
-        "time": "09:00",
-        "details": "Traffic monitoring and speed control",
-        "team": "team1"
+        "title": "Alexanderstraße",
+        "time": "07:00-09:00",
+        "team": "team1",
+        "details": "Cat: S - School Zone Priority"
       },
       {
-        "title": "Alexanderstraße",
-        "time": "11:00",
-        "details": "Traffic monitoring and speed control",
-        "team": "team2"
+        "title": "Arndstraße", 
+        "time": "07:00-09:00",
+        "team": "team2",
+        "details": "Cat: S - School Zone Priority"
+      },
+      {
+        "title": "Bismarkstraße",
+        "time": "09:30-11:30",
+        "team": "team1", 
+        "details": "Cat: S - School Zone Priority"
+      },
+      {
+        "title": "Christophstraße",
+        "time": "09:30-11:30",
+        "team": "team2",
+        "details": "Cat: S - School Zone Priority"
+      },
+      {
+        "title": "Dammstraße",
+        "time": "12:00-14:00",
+        "team": "team1",
+        "details": "Cat: S - School Zone Priority"
+      },
+      {
+        "title": "Friedensplatz",
+        "time": "12:00-14:00", 
+        "team": "team2",
+        "details": "Cat: S - School Zone Priority"
+      },
+      {
+        "title": "Lammgasse",
+        "time": "17:00-19:00",
+        "team": "team1",
+        "details": "Cat: B - Evening Patrol"
       },
       {
         "title": "Auerbachstraße",
-        "time": "14:00",
-        "details": "Traffic monitoring and speed control",
-        "team": "team1"
+        "time": "17:00-19:00",
+        "team": "team2", 
+        "details": "Cat: B - Evening Patrol"
       },
       {
-        "title": "Armsündersteige",
-        "time": "16:00",
-        "details": "Traffic monitoring and speed control",
-        "team": "team2"
+        "title": "B 39 Sattel b. Parkplatz",
+        "time": "19:30-21:30",
+        "team": "team1",
+        "details": "Cat: U - Night Priority"
+      },
+      {
+        "title": "Goethestraße",
+        "time": "19:30-21:30",
+        "team": "team2",
+        "details": "Cat: U - Night Priority"
       }
     ]
   },
@@ -32,22 +68,64 @@
     "full": "2026-01-21",
     "events": [
       {
+        "title": "Gellertstraße",
+        "time": "07:00-09:00",
+        "team": "team1",
+        "details": "Cat: S - School Zone Priority"
+      },
+      {
+        "title": "Happenbacher Straße",
+        "time": "07:00-09:00",
+        "team": "team2",
+        "details": "Cat: S - School Zone Priority"
+      },
+      {
+        "title": "Happelstraße",
+        "time": "09:30-11:30",
+        "team": "team1",
+        "details": "Cat: S - School Zone Priority"
+      },
+      {
+        "title": "Innsbrucker Straße",
+        "time": "09:30-11:30",
+        "team": "team2",
+        "details": "Cat: S - School Zone Priority"
+      },
+      {
+        "title": "Im Wannental",
+        "time": "12:00-14:00",
+        "team": "team1",
+        "details": "Cat: S - School Zone Priority"
+      },
+      {
+        "title": "Kauffmannstraße",
+        "time": "12:00-14:00",
+        "team": "team2",
+        "details": "Cat: S - School Zone Priority"
+      },
+      {
+        "title": "Armsündersteige",
+        "time": "17:00-19:00",
+        "team": "team1",
+        "details": "Cat: B - Evening Patrol"
+      },
+      {
         "title": "Bechtstraße",
-        "time": "09:30",
-        "details": "Traffic monitoring and speed control",
-        "team": "team1"
+        "time": "17:00-19:00",
+        "team": "team2",
+        "details": "Cat: B - Evening Patrol"
       },
       {
-        "title": "Am Trappensee",
-        "time": "13:00",
-        "details": "Traffic monitoring and speed control",
-        "team": "team2"
+        "title": "Gottlieb-Daimler-Straße",
+        "time": "19:30-21:30",
+        "team": "team1",
+        "details": "Cat: U - Night Priority"
       },
       {
-        "title": "Achtungstraße",
-        "time": "15:30",
-        "details": "Traffic monitoring and speed control",
-        "team": "team1"
+        "title": "Karlstraße",
+        "time": "19:30-21:30",
+        "team": "team2",
+        "details": "Cat: U - Night Priority"
       }
     ]
   },
@@ -55,16 +133,64 @@
     "full": "2026-01-22",
     "events": [
       {
-        "title": "Arndstraße",
-        "time": "10:00",
-        "details": "Traffic monitoring and speed control",
-        "team": "team2"
+        "title": "Lenaustraße",
+        "time": "07:00-09:00",
+        "team": "team1",
+        "details": "Cat: S - School Zone Priority"
       },
       {
-        "title": "Besigheimer Straße",
-        "time": "14:30",
-        "details": "Traffic monitoring and speed control",
-        "team": "team1"
+        "title": "Rosenbergstraße",
+        "time": "07:00-09:00",
+        "team": "team2",
+        "details": "Cat: S - School Zone Priority"
+      },
+      {
+        "title": "Sichererstraße",
+        "time": "09:30-11:30",
+        "team": "team1",
+        "details": "Cat: S - School Zone Priority"
+      },
+      {
+        "title": "Siebennußbaumstraße",
+        "time": "09:30-11:30",
+        "team": "team2",
+        "details": "Cat: S - School Zone Priority"
+      },
+      {
+        "title": "John-F.-Kennedy-Straße",
+        "time": "12:00-14:00",
+        "team": "team1",
+        "details": "Cat: S - School Zone Priority"
+      },
+      {
+        "title": "Am Sülmertor",
+        "time": "12:00-14:00",
+        "team": "team2",
+        "details": "Cat: S - School Zone Priority"
+      },
+      {
+        "title": "Am Trappensee",
+        "time": "17:00-19:00",
+        "team": "team1",
+        "details": "Cat: B - Evening Patrol"
+      },
+      {
+        "title": "Achtungstraße",
+        "time": "17:00-19:00",
+        "team": "team2",
+        "details": "Cat: B - Evening Patrol"
+      },
+      {
+        "title": "Paul-Goebel-Straße",
+        "time": "19:30-21:30",
+        "team": "team1",
+        "details": "Cat: U - Night Priority"
+      },
+      {
+        "title": "Schaeuffelenstraße",
+        "time": "19:30-21:30",
+        "team": "team2",
+        "details": "Cat: U - Night Priority"
       }
     ]
   },
@@ -72,15 +198,159 @@
     "full": "2026-01-23",
     "events": [
       {
+        "title": "Beethovenstraße",
+        "time": "07:00-09:00",
+        "team": "team1",
+        "details": "Cat: S - School Zone Priority"
+      },
+      {
+        "title": "Bergstraße",
+        "time": "07:00-09:00",
+        "team": "team2",
+        "details": "Cat: S - School Zone Priority"
+      },
+      {
+        "title": "Burenstraße",
+        "time": "09:30-11:30",
+        "team": "team1",
+        "details": "Cat: S - School Zone Priority"
+      },
+      {
+        "title": "Erlenbacher Straße",
+        "time": "09:30-11:30",
+        "team": "team2",
+        "details": "Cat: S - School Zone Priority"
+      },
+      {
+        "title": "Friedrich-Dürr-Straße",
+        "time": "12:00-14:00",
+        "team": "team1",
+        "details": "Cat: S - School Zone Priority"
+      },
+      {
+        "title": "Herbert-Hoover-Straße",
+        "time": "12:00-14:00",
+        "team": "team2",
+        "details": "Cat: S - School Zone Priority"
+      },
+      {
+        "title": "Besigheimer Straße",
+        "time": "17:00-19:00",
+        "team": "team1",
+        "details": "Cat: B - Evening Patrol"
+      },
+      {
         "title": "Binswanger Straße",
-        "time": "09:15",
-        "details": "Traffic monitoring and speed control",
-        "team": "team2"
+        "time": "17:00-19:00",
+        "team": "team2",
+        "details": "Cat: B - Evening Patrol"
+      },
+      {
+        "title": "Silcherstraße",
+        "time": "19:30-21:30",
+        "team": "team1",
+        "details": "Cat: U - Night Priority"
+      },
+      {
+        "title": "Stuttgarter Straße",
+        "time": "19:30-21:30",
+        "team": "team2",
+        "details": "Cat: U - Night Priority"
+      },
+      {
+        "title": "Weststraße",
+        "time": "21:30-00:30",
+        "team": "team1",
+        "details": "Cat: U - Late Night Priority"
+      },
+      {
+        "title": "Am Wollhaus",
+        "time": "21:30-00:30",
+        "team": "team2",
+        "details": "Cat: U - Late Night Priority"
       }
     ]
   },
   {
     "full": "2026-01-24",
-    "events": []
+    "events": [
+      {
+        "title": "Lessingstraße",
+        "time": "17:00-19:00",
+        "team": "team1",
+        "details": "Cat: S - Evening Patrol"
+      },
+      {
+        "title": "Mönchseestraße",
+        "time": "17:00-19:00",
+        "team": "team2",
+        "details": "Cat: S - Evening Patrol"
+      },
+      {
+        "title": "Pestalozzistraße",
+        "time": "19:30-21:30",
+        "team": "team1",
+        "details": "Cat: S - Evening Priority"
+      },
+      {
+        "title": "Paulinenstraße",
+        "time": "19:30-21:30",
+        "team": "team2",
+        "details": "Cat: S - Evening Priority"
+      },
+      {
+        "title": "Allee",
+        "time": "21:30-00:30",
+        "team": "team1",
+        "details": "Cat: U - Late Night Priority"
+      },
+      {
+        "title": "Austraße",
+        "time": "21:30-00:30",
+        "team": "team2",
+        "details": "Cat: U - Late Night Priority"
+      }
+    ]
+  },
+  {
+    "full": "2026-01-25",
+    "events": [
+      {
+        "title": "Rauchstraße",
+        "time": "17:00-19:00",
+        "team": "team1",
+        "details": "Cat: S - Evening Patrol"
+      },
+      {
+        "title": "Silcherstraße",
+        "time": "17:00-19:00",
+        "team": "team2",
+        "details": "Cat: S - Evening Patrol"
+      },
+      {
+        "title": "Villmatstraße",
+        "time": "19:30-21:30",
+        "team": "team1",
+        "details": "Cat: S - Evening Priority"
+      },
+      {
+        "title": "Zellerstraße",
+        "time": "19:30-21:30",
+        "team": "team2",
+        "details": "Cat: S - Evening Priority"
+      },
+      {
+        "title": "Bahnhofstraße",
+        "time": "21:30-00:30",
+        "team": "team1",
+        "details": "Cat: U - Late Night Priority"
+      },
+      {
+        "title": "Badstraße",
+        "time": "21:30-00:30",
+        "team": "team2",
+        "details": "Cat: U - Late Night Priority"
+      }
+    ]
   }
 ]
