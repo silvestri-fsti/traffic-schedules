@@ -1,0 +1,171 @@
+[
+  {
+    "full": "2026-01-19",
+    "events": [
+      {
+        "title": "Lammgasse",
+        "time": "09:00",
+        "details": "Score: 0",
+        "team": "team1"
+      },
+      {
+        "title": "Alexanderstraße",
+        "time": "09:00",
+        "details": "Score: 0",
+        "team": "team2"
+      },
+      {
+        "title": "Auerbachstraße",
+        "time": "11:00",
+        "details": "Score: 0",
+        "team": "team1"
+      },
+      {
+        "title": "Armsündersteige",
+        "time": "11:00",
+        "details": "Score: 0",
+        "team": "team2"
+      },
+      {
+        "title": "Bechtstraße",
+        "time": "14:00",
+        "details": "Score: 0",
+        "team": "team1"
+      },
+      {
+        "title": "Am Trappensee",
+        "time": "14:00",
+        "details": "Score: 0",
+        "team": "team2"
+      }
+    ]
+  },
+  {
+    "full": "2026-01-20",
+    "events": [
+      {
+        "title": "Achtungstraße",
+        "time": "09:00",
+        "details": "Score: 0",
+        "team": "team1"
+      },
+      {
+        "title": "Arndstraße",
+        "time": "09:00",
+        "details": "Score: 0",
+        "team": "team2"
+      },
+      {
+        "title": "Besigheimer Straße",
+        "time": "11:00",
+        "details": "Score: 0",
+        "team": "team1"
+      },
+      {
+        "title": "Binswanger Straße",
+        "time": "11:00",
+        "details": "Score: 0",
+        "team": "team2"
+      },
+      {
+        "title": "B 39 Sattel b. Parkplatz",
+        "time": "14:00",
+        "details": "Score: 0",
+        "team": "team1"
+      },
+      {
+        "title": "Benzstraße",
+        "time": "14:00",
+        "details": "Score: 0",
+        "team": "team2"
+      }
+    ]
+  },
+  {
+    "full": "2026-01-21",
+    "events": [
+      {
+        "title": "Bismarkstraße",
+        "time": "09:00",
+        "details": "Score: 0",
+        "team": "team1"
+      },
+      {
+        "title": "Götzenturmbrücke",
+        "time": "09:00",
+        "details": "Score: 0",
+        "team": "team2"
+      },
+      {
+        "title": "Eberhard-Gmelin-Straße",
+        "time": "11:00",
+        "details": "Score: 0",
+        "team": "team1"
+      },
+      {
+        "title": "Dammstraße",
+        "time": "11:00",
+        "details": "Score: 0",
+        "team": "team2"
+      }
+    ]
+  },
+  {
+    "full": "2026-01-22",
+    "events": [
+      {
+        "title": "Cäcilienbrunnenstraße",
+        "time": "09:00",
+        "details": "Score: 0",
+        "team": "team1"
+      },
+      {
+        "title": "Christophstraße",
+        "time": "09:00",
+        "details": "Score: 0",
+        "team": "team2"
+      },
+      {
+        "title": "Dittmarstraße",
+        "time": "11:00",
+        "details": "Score: 0",
+        "team": "team1"
+      },
+      {
+        "title": "Dühringstraße",
+        "time": "11:00",
+        "details": "Score: 0",
+        "team": "team2"
+      }
+    ]
+  },
+  {
+    "full": "2026-01-23",
+    "events": [
+      {
+        "title": "Goppeltstraße",
+        "time": "09:00",
+        "details": "Score: 0",
+        "team": "team1"
+      },
+      {
+        "title": "Krugstraße",
+        "time": "09:00",
+        "details": "Score: 0",
+        "team": "team2"
+      },
+      {
+        "title": "Wilhelm-Bloss-Straße",
+        "time": "11:00",
+        "details": "Score: 0",
+        "team": "team1"
+      },
+      {
+        "title": "Kranenstraße",
+        "time": "11:00",
+        "details": "Score: 0",
+        "team": "team2"
+      }
+    ]
+  }
+]
