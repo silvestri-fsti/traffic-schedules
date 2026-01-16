@@ -1,0 +1,30 @@
+{
+  "weekly_traffic_schedule": {
+    "description": "Weekly Traffic Schedule (Monday-Friday) based on street data",
+    "selection_criteria": "Top 5 distinct streets with highest scores (all streets had score 0, so first 5 distinct streets selected)",
+    "schedule": {
+      "monday": {
+        "street": "Lammgasse",
+        "score": 0
+      },
+      "tuesday": {
+        "street": "Alexanderstraße",
+        "score": 0
+      },
+      "wednesday": {
+        "street": "Auerbachstraße",
+        "score": 0
+      },
+      "thursday": {
+        "street": "Armsündersteige",
+        "score": 0
+      },
+      "friday": {
+        "street": "Bechtstraße",
+        "score": 0
+      }
+    },
+    "created_date": "2026-01-14",
+    "total_streets_analyzed": 500
+  }
+}
