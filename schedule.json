@@ -1,6 +1,6 @@
 [
   {
-    "full": "2026-01-12",
+    "full": "2026-01-20",
     "events": [
       {
         "title": "Alexanderstraße",
@@ -37,35 +37,11 @@
         "time": "12:00-14:00",
         "team": "team2",
         "details": "Heilbronn | Kat: S"
-      },
-      {
-        "title": "Goethestraße",
-        "time": "17:00-19:00",
-        "team": "team1",
-        "details": "Heilbronn | Kat: U"
-      },
-      {
-        "title": "Gottlieb-Daimler-Straße",
-        "time": "17:00-19:00",
-        "team": "team2",
-        "details": "Heilbronn | Kat: U"
-      },
-      {
-        "title": "Karlstraße",
-        "time": "19:30-21:30",
-        "team": "team1",
-        "details": "Heilbronn | Kat: U"
-      },
-      {
-        "title": "Paul-Goebel-Straße",
-        "time": "19:30-21:30",
-        "team": "team2",
-        "details": "Heilbronn | Kat: U"
       }
     ]
   },
   {
-    "full": "2026-01-13",
+    "full": "2026-01-21",
     "events": [
       {
         "title": "Friedensplatz",
@@ -102,35 +78,11 @@
         "time": "12:00-14:00",
         "team": "team2",
         "details": "Heilbronn | Kat: S"
-      },
-      {
-        "title": "Schaeuffelenstraße",
-        "time": "17:00-19:00",
-        "team": "team1",
-        "details": "Heilbronn | Kat: U"
-      },
-      {
-        "title": "Silcherstraße",
-        "time": "17:00-19:00",
-        "team": "team2",
-        "details": "Heilbronn | Kat: U"
-      },
-      {
-        "title": "Stuttgarter Straße",
-        "time": "19:30-21:30",
-        "team": "team1",
-        "details": "Heilbronn | Kat: U"
-      },
-      {
-        "title": "Weststraße",
-        "time": "19:30-21:30",
-        "team": "team2",
-        "details": "Heilbronn | Kat: U"
       }
     ]
   },
   {
-    "full": "2026-01-14",
+    "full": "2026-01-22",
     "events": [
       {
         "title": "Kauffmannstraße",
@@ -163,39 +115,15 @@
         "details": "Heilbronn | Kat: S"
       },
       {
-        "title": "Karlstraße",
-        "time": "12:00-14:00",
-        "team": "team2",
-        "details": "Heilbronn | Kat: S"
-      },
-      {
-        "title": "Am Wollhaus",
-        "time": "17:00-19:00",
-        "team": "team1",
-        "details": "Heilbronn | Kat: U"
-      },
-      {
-        "title": "Allee",
-        "time": "17:00-19:00",
-        "team": "team2",
-        "details": "Heilbronn | Kat: U"
-      },
-      {
-        "title": "Austraße",
-        "time": "19:30-21:30",
-        "team": "team1",
-        "details": "Heilbronn | Kat: U"
-      },
-      {
         "title": "Am Sülmertor",
-        "time": "19:30-21:30",
+        "time": "12:00-14:00",
         "team": "team2",
         "details": "Heilbronn | Kat: S"
       }
     ]
   },
   {
-    "full": "2026-01-15",
+    "full": "2026-01-23",
     "events": [
       {
         "title": "Beethovenstraße",
@@ -232,35 +160,11 @@
         "time": "12:00-14:00",
         "team": "team2",
         "details": "Heilbronn | Kat: S"
-      },
-      {
-        "title": "Bahnhofstraße",
-        "time": "17:00-19:00",
-        "team": "team1",
-        "details": "Heilbronn | Kat: U"
-      },
-      {
-        "title": "Badstraße",
-        "time": "17:00-19:00",
-        "team": "team2",
-        "details": "Heilbronn | Kat: U"
-      },
-      {
-        "title": "Charlottenstraße bei M.-Pl.-Straße",
-        "time": "19:30-21:30",
-        "team": "team1",
-        "details": "Heilbronn | Kat: U"
-      },
-      {
-        "title": "Charlottenstraße bei Fw.",
-        "time": "19:30-21:30",
-        "team": "team2",
-        "details": "Heilbronn | Kat: U"
       }
     ]
   },
   {
-    "full": "2026-01-16",
+    "full": "2026-01-24",
     "events": [
       {
         "title": "Lessingstraße",
@@ -293,43 +197,43 @@
         "details": "Heilbronn | Kat: S"
       },
       {
-        "title": "Silcherstraße",
+        "title": "Villmatstraße",
         "time": "12:00-14:00",
         "team": "team2",
         "details": "Heilbronn | Kat: S"
       },
       {
-        "title": "Einsteinstraße",
+        "title": "Goethestraße",
         "time": "17:00-19:00",
         "team": "team1",
         "details": "Heilbronn | Kat: U"
       },
       {
-        "title": "Frankfurter Straße",
+        "title": "Gottlieb-Daimler-Straße",
         "time": "17:00-19:00",
         "team": "team2",
         "details": "Heilbronn | Kat: U"
       },
       {
-        "title": "Hafenstraße",
+        "title": "Paul-Goebel-Straße",
         "time": "19:30-21:30",
         "team": "team1",
         "details": "Heilbronn | Kat: U"
       },
       {
-        "title": "Jägerhausstraße",
+        "title": "Schaeuffelenstraße",
         "time": "19:30-21:30",
         "team": "team2",
         "details": "Heilbronn | Kat: U"
       },
       {
-        "title": "Kalistraße",
+        "title": "Silcherstraße",
         "time": "21:30-00:30",
         "team": "team1",
         "details": "Heilbronn | Kat: U"
       },
       {
-        "title": "Karlsruher Straße",
+        "title": "Stuttgarter Straße",
         "time": "21:30-00:30",
         "team": "team2",
         "details": "Heilbronn | Kat: U"
@@ -337,40 +241,40 @@
     ]
   },
   {
-    "full": "2026-01-17",
+    "full": "2026-01-25",
     "events": [
       {
-        "title": "Mannheimer Straße",
+        "title": "Weststraße",
         "time": "17:00-19:00",
         "team": "team1",
         "details": "Heilbronn | Kat: U"
       },
       {
-        "title": "Neckarsulmer Straße",
+        "title": "Am Wollhaus",
         "time": "17:00-19:00",
         "team": "team2",
         "details": "Heilbronn | Kat: U"
       },
       {
-        "title": "Olgastraße",
+        "title": "Allee",
         "time": "19:30-21:30",
         "team": "team1",
         "details": "Heilbronn | Kat: U"
       },
       {
-        "title": "Sontheimer Landwehr",
+        "title": "Austraße",
         "time": "19:30-21:30",
         "team": "team2",
         "details": "Heilbronn | Kat: U"
       },
       {
-        "title": "Südstraße bei Kirche",
+        "title": "Bahnhofstraße",
         "time": "21:30-00:30",
         "team": "team1",
         "details": "Heilbronn | Kat: U"
       },
       {
-        "title": "Südstraße östl. Rosenbergbrücke",
+        "title": "Badstraße",
         "time": "21:30-00:30",
         "team": "team2",
         "details": "Heilbronn | Kat: U"
@@ -378,7 +282,11 @@
     ]
   },
   {
-    "full": "2026-01-19",
+    "full": "2026-01-26",
+    "events": []
+  },
+  {
+    "full": "2026-01-27",
     "events": [
       {
         "title": "Bibersteige",
@@ -415,328 +323,232 @@
         "time": "12:00-14:00",
         "team": "team2",
         "details": "Biberach | Kat: S"
-      },
-      {
-        "title": "Unterlandstraße",
-        "time": "17:00-19:00",
-        "team": "team1",
-        "details": "Biberach | Kat: U"
-      },
-      {
-        "title": "Ziegeleistraße",
-        "time": "17:00-19:00",
-        "team": "team2",
-        "details": "Biberach | Kat: S"
-      },
-      {
-        "title": "Am Gesundbrunnen",
-        "time": "19:30-21:30",
-        "team": "team1",
-        "details": "Böckingen | Kat: U"
-      },
-      {
-        "title": "Adolf-Alter-Straße",
-        "time": "19:30-21:30",
-        "team": "team2",
-        "details": "Böckingen | Kat: S"
       }
     ]
   },
   {
-    "full": "2026-01-20",
+    "full": "2026-01-28",
     "events": [
       {
-        "title": "Bruchsaler Straße",
+        "title": "Adolf-Alter-Straße",
         "time": "07:00-09:00",
         "team": "team1",
         "details": "Böckingen | Kat: S"
       },
       {
-        "title": "Grünewald Straße",
+        "title": "Bruchsaler Straße",
         "time": "07:00-09:00",
         "team": "team2",
+        "details": "Böckingen | Kat: S"
+      },
+      {
+        "title": "Grünewald Straße",
+        "time": "09:30-11:30",
+        "team": "team1",
         "details": "Böckingen | Kat: S"
       },
       {
         "title": "Blumhardstraße",
         "time": "09:30-11:30",
-        "team": "team1",
+        "team": "team2",
         "details": "Böckingen | Kat: S"
       },
       {
         "title": "Derfflinger Straße",
-        "time": "09:30-11:30",
-        "team": "team2",
+        "time": "12:00-14:00",
+        "team": "team1",
         "details": "Böckingen | Kat: S"
       },
       {
         "title": "Friedrichstraße",
         "time": "12:00-14:00",
-        "team": "team1",
-        "details": "Böckingen | Kat: S"
-      },
-      {
-        "title": "Helmholtzstraße",
-        "time": "12:00-14:00",
         "team": "team2",
         "details": "Böckingen | Kat: S"
-      },
-      {
-        "title": "Großgartacher Straße",
-        "time": "17:00-19:00",
-        "team": "team1",
-        "details": "Böckingen | Kat: U"
-      },
-      {
-        "title": "Heckenstraße",
-        "time": "17:00-19:00",
-        "team": "team2",
-        "details": "Böckingen | Kat: U"
-      },
-      {
-        "title": "Heidelberger Straße",
-        "time": "19:30-21:30",
-        "team": "team1",
-        "details": "Böckingen | Kat: U"
-      },
-      {
-        "title": "Kastanienweg",
-        "time": "19:30-21:30",
-        "team": "team2",
-        "details": "Böckingen | Kat: U"
       }
     ]
   },
   {
-    "full": "2026-01-21",
+    "full": "2026-01-29",
     "events": [
       {
-        "title": "Im Haselter",
+        "title": "Helmholtzstraße",
         "time": "07:00-09:00",
         "team": "team1",
         "details": "Böckingen | Kat: S"
       },
       {
-        "title": "Im Kreuzgrund",
+        "title": "Im Haselter",
         "time": "07:00-09:00",
         "team": "team2",
+        "details": "Böckingen | Kat: S"
+      },
+      {
+        "title": "Im Kreuzgrund",
+        "time": "09:30-11:30",
+        "team": "team1",
         "details": "Böckingen | Kat: S"
       },
       {
         "title": "Längelterstraße",
         "time": "09:30-11:30",
-        "team": "team1",
+        "team": "team2",
         "details": "Böckingen | Kat: S"
       },
       {
         "title": "Landwehrstraße",
-        "time": "09:30-11:30",
-        "team": "team2",
+        "time": "12:00-14:00",
+        "team": "team1",
         "details": "Böckingen | Kat: S"
       },
       {
         "title": "Pfaffenhofener Straße",
         "time": "12:00-14:00",
-        "team": "team1",
-        "details": "Böckingen | Kat: S"
-      },
-      {
-        "title": "Schollenhaldenstraße",
-        "time": "12:00-14:00",
         "team": "team2",
         "details": "Böckingen | Kat: S"
-      },
-      {
-        "title": "Klingenberger Straße",
-        "time": "17:00-19:00",
-        "team": "team1",
-        "details": "Böckingen | Kat: U"
-      },
-      {
-        "title": "Karl-Marx-Straße",
-        "time": "17:00-19:00",
-        "team": "team2",
-        "details": "Böckingen | Kat: U"
-      },
-      {
-        "title": "Ludwigsburger Straße",
-        "time": "19:30-21:30",
-        "team": "team1",
-        "details": "Böckingen | Kat: U"
-      },
-      {
-        "title": "Ludwigsburger Straße L 1106",
-        "time": "19:30-21:30",
-        "team": "team2",
-        "details": "Böckingen | Kat: U"
       }
     ]
   },
   {
-    "full": "2026-01-22",
+    "full": "2026-01-30",
     "events": [
       {
-        "title": "Sinsheimer Straße",
+        "title": "Schollenhaldenstraße",
         "time": "07:00-09:00",
         "team": "team1",
         "details": "Böckingen | Kat: S"
       },
       {
-        "title": "Sonnenbergstraße",
+        "title": "Sinsheimer Straße",
         "time": "07:00-09:00",
         "team": "team2",
+        "details": "Böckingen | Kat: S"
+      },
+      {
+        "title": "Sonnenbergstraße",
+        "time": "09:30-11:30",
+        "team": "team1",
         "details": "Böckingen | Kat: S"
       },
       {
         "title": "Eisenbahnstraße",
         "time": "09:30-11:30",
-        "team": "team1",
+        "team": "team2",
         "details": "Böckingen | Kat: S"
       },
       {
         "title": "Stettener Straße",
-        "time": "09:30-11:30",
-        "team": "team2",
+        "time": "12:00-14:00",
+        "team": "team1",
         "details": "Böckingen | Kat: S"
       },
       {
         "title": "Zellerstraße",
         "time": "12:00-14:00",
-        "team": "team1",
+        "team": "team2",
         "details": "Böckingen | Kat: S"
-      },
-      {
-        "title": "Bamberger Straße",
-        "time": "12:00-14:00",
-        "team": "team2",
-        "details": "Frankenbach | Kat: S"
-      },
-      {
-        "title": "Neckartalstraße",
-        "time": "17:00-19:00",
-        "team": "team1",
-        "details": "Böckingen | Kat: U"
-      },
-      {
-        "title": "Neckargartacher Straße",
-        "time": "17:00-19:00",
-        "team": "team2",
-        "details": "Böckingen | Kat: U"
-      },
-      {
-        "title": "Neue Straße",
-        "time": "19:30-21:30",
-        "team": "team1",
-        "details": "Böckingen | Kat: U"
-      },
-      {
-        "title": "Saarlandstraße",
-        "time": "19:30-21:30",
-        "team": "team2",
-        "details": "Böckingen | Kat: U"
       }
     ]
   },
   {
-    "full": "2026-01-23",
+    "full": "2026-01-31",
     "events": [
       {
-        "title": "Burgundenstraße",
+        "title": "Bamberger Straße",
         "time": "07:00-09:00",
         "team": "team1",
         "details": "Frankenbach | Kat: S"
       },
       {
-        "title": "Burgstallstraße",
+        "title": "Burgundenstraße",
         "time": "07:00-09:00",
         "team": "team2",
+        "details": "Frankenbach | Kat: S"
+      },
+      {
+        "title": "Burgstallstraße",
+        "time": "09:30-11:30",
+        "team": "team1",
         "details": "Frankenbach | Kat: S"
       },
       {
         "title": "Kirchhausener Straße",
         "time": "09:30-11:30",
-        "team": "team1",
+        "team": "team2",
         "details": "Frankenbach | Kat: S"
       },
       {
         "title": "Riedweg",
-        "time": "09:30-11:30",
-        "team": "team2",
+        "time": "12:00-14:00",
+        "team": "team1",
         "details": "Frankenbach | Kat: S"
       },
       {
         "title": "Saarbrückener Straße",
         "time": "12:00-14:00",
-        "team": "team1",
-        "details": "Frankenbach | Kat: S"
-      },
-      {
-        "title": "Würzburger Straße",
-        "time": "12:00-14:00",
         "team": "team2",
         "details": "Frankenbach | Kat: S"
       },
       {
-        "title": "Seestraße",
+        "title": "Charlottenstraße bei M.-Pl.-Straße",
         "time": "17:00-19:00",
         "team": "team1",
-        "details": "Böckingen | Kat: U"
+        "details": "Heilbronn | Kat: U"
       },
       {
-        "title": "Sinsheimer Straße",
+        "title": "Charlottenstraße bei Fw.",
         "time": "17:00-19:00",
         "team": "team2",
-        "details": "Böckingen | Kat: U"
+        "details": "Heilbronn | Kat: U"
       },
       {
-        "title": "Viehweide",
+        "title": "Einsteinstraße",
         "time": "19:30-21:30",
         "team": "team1",
-        "details": "Böckingen | Kat: U"
+        "details": "Heilbronn | Kat: U"
       },
       {
-        "title": "Wilhelm-Leuschner-Straße",
+        "title": "Frankfurter Straße",
         "time": "19:30-21:30",
         "team": "team2",
-        "details": "Böckingen | Kat: U"
+        "details": "Heilbronn | Kat: U"
       },
       {
-        "title": "Brackenheimer Straße",
+        "title": "Hafenstraße",
         "time": "21:30-00:30",
         "team": "team1",
-        "details": "Böckingen | Kat: U"
+        "details": "Heilbronn | Kat: U"
       },
       {
-        "title": "Kanalstraße",
+        "title": "Jägerhausstraße",
         "time": "21:30-00:30",
         "team": "team2",
-        "details": "Böckingen | Kat: U"
+        "details": "Heilbronn | Kat: U"
       }
     ]
   },
   {
-    "full": "2026-01-24",
+    "full": "2026-02-01",
     "events": [
       {
-        "title": "Urbanstraße",
+        "title": "Kalistraße",
         "time": "17:00-19:00",
         "team": "team1",
         "details": "Heilbronn | Kat: U"
       },
       {
-        "title": "Weipertstraße",
+        "title": "Karlsruher Straße",
         "time": "17:00-19:00",
         "team": "team2",
         "details": "Heilbronn | Kat: U"
       },
       {
-        "title": "Wilhelmstraße",
+        "title": "Karl-Wüst-Straße",
         "time": "19:30-21:30",
         "team": "team1",
         "details": "Heilbronn | Kat: U"
       },
       {
-        "title": "Paulinenstraße",
+        "title": "Mannheimer Straße",
         "time": "19:30-21:30",
         "team": "team2",
         "details": "Heilbronn | Kat: U"
@@ -748,11 +560,15 @@
         "details": "Heilbronn | Kat: U"
       },
       {
-        "title": "Schaueffelenstraße",
+        "title": "Olgastraße",
         "time": "21:30-00:30",
         "team": "team2",
         "details": "Heilbronn | Kat: U"
       }
     ]
+  },
+  {
+    "full": "2026-02-02",
+    "events": []
   }
 ]
